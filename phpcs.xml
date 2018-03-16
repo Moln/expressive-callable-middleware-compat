@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="Zend Framework Coding Standard">
+    <rule ref="./vendor/zendframework/zend-coding-standard/ruleset.xml"/>
+    <arg name="encoding" value="utf-8"/>
+
+    <!-- Paths to check -->
+    <file>src</file>
+    <file>test</file>
+</ruleset>

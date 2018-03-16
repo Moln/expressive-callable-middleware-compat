@@ -1,0 +1,34 @@
+{
+    "name": "moln/expressive-callable-middleware-compat",
+    "description": "Compatible with callable middleware in Expressive V3",
+    "type": "library",
+    "keywords":[
+        "psr-15",
+        "expressive",
+        "callable"
+    ],
+    "require": {
+        "zendframework/zend-expressive": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6",
+        "zendframework/zend-coding-standard": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Moln\\ExpressiveCallableCompat\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MolnTest\\ExpressiveCallableCompat\\": "test/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moln",
+            "email": "moln.xie@gmail.com"
+        }
+    ]
+}
