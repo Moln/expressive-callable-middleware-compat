@@ -2,6 +2,8 @@
     "name": "moln/expressive-callable-middleware-compat",
     "description": "Compatible with callable middleware in Expressive V3",
     "type": "library",
+    "minimum-stability": "alpha",
+    "prefer-stable": true,
     "keywords":[
         "psr-15",
         "expressive",
