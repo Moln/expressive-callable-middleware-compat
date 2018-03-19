@@ -1,8 +1,8 @@
 Expressive callable middleware compat
 ======================================
 
-[![Build Status](https://travis-ci.org/moln/expressive-callable-middleware-compat.png)](https://travis-ci.org/moln/expressive-callable-middleware-compat)
-[![Coverage Status](https://coveralls.io/repos/github/moln/expressive-callable-middleware-compat/badge.svg?branch=master)](https://coveralls.io/github/moln/expressive-callable-middleware-compat?branch=master)
+[![Build Status](https://travis-ci.org/Moln/expressive-callable-middleware-compat.png)](https://travis-ci.org/Moln/expressive-callable-middleware-compat)
+[![Coverage Status](https://coveralls.io/repos/github/Moln/expressive-callable-middleware-compat/badge.svg?branch=master)](https://coveralls.io/github/Moln/expressive-callable-middleware-compat?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/moln/expressive-callable-middleware-compat/v/stable.png)](https://packagist.org/packages/moln/expressive-callable-middleware-compat)
 
 Compatible with callable middleware in Expressive V3
